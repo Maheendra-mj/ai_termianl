@@ -150,5 +150,5 @@ You will see the welcome message and the `➤` prompt. You are now ready to go!
 
 ## 📜 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](../../../../c:/Users/mahee/Downloads/LICENSE) file for details.
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
 
