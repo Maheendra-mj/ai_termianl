@@ -1,0 +1,11 @@
+#For the MCP Server
+fastapi
+uvicorn[standard]
+
+#For the AI Terminal Client
+httpx
+rich
+prompt-toolkit
+
+#Common
+pydantic
